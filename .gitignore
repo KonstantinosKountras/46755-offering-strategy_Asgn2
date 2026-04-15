@@ -37,8 +37,8 @@ env/
 # =========================
 # Raw Data (keep structure, ignore heavy files)
 # =========================
-data/raw/*.csv
-data/raw/*.xlsx
+#data/raw/*.csv
+#data/raw/*.xlsx
 data/raw/*.zip
 
 # =========================
